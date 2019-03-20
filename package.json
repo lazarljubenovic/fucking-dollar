@@ -1,0 +1,21 @@
+{
+  "name": "fucking-dollar",
+  "version": "1.0.0",
+  "description": "A fucking dollar.",
+  "main": "dst/index.js",
+  "es2015": "./dist/index.js",
+  "module": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "repository": "https://github.com/lazarljubenovic/fucking-dollar",
+  "author": "lazarljubenovic <lazar.ljubenovic.1995@gmail.com>",
+  "license": "WTFPL",
+  "private": false,
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "devDependencies": {
+    "rollup": "^1.7.0",
+    "rollup-plugin-typescript2": "^0.20.1",
+    "typescript": "^3.3.4000"
+  }
+}
