@@ -1,6 +1,6 @@
 {
   "name": "fucking-dollar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fucking dollar.",
   "main": "dst/index.js",
   "es2015": "./dst/index.js",
