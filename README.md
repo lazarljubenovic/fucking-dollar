@@ -6,13 +6,13 @@ Alias for `document.querySelector` and `document.querySelectorAll`, in form of f
 
 ## Installation
 
-```
+```bash
 $ yarn add fucking-dollar
 ```
 
 ## Usage
 
-```
+```typescript
 import { $, $$ } from 'fucking-dollar'
 
 $('#fucking-element') // => HTMLElement
